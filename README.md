@@ -2,7 +2,7 @@
 
 Projeto Realizado atraves do curso da Byjus, como um perqueno simualdor do Trex do Google. Colocando em prática os conceitos da biblioteca P5.Js e a linguagem Javascript.
 
-## funcionalidade
+## Funcionalidades
 
 .Pular: Pressione a tecla de espaço para fazer o dinossauro pular e evitar Obstaculos.<br>
 . Pontuação: Ganhe pontos à medida que o dinossauro avança, com Base na distância percorrida.<br>
